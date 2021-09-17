@@ -1,3 +1,3 @@
 # Code FC
 
-<img src="https://user-images.githubusercontent.com/6145263/133796476-18b6a1d5-4997-4e20-b4b3-d62b22d1b97e.jpg" width="300"/>
+![banner-youtube](https://user-images.githubusercontent.com/6145263/133796583-0c53380c-4097-49ab-8129-d1b3226f7c8c.jpg)
